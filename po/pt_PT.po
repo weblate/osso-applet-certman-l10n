@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-certman 20091109114416\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator:\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cema_ap_application_title"
+msgstr "Gestor de certificados"
+
+msgid "cer_ib_incorrect"
+msgstr "Palavra-passe incorrecta"
+
+msgid "cert_bd_c_delete"
+msgstr "Eliminar"
+
+msgid "cert_bd_cd_install"
+msgstr "Instalar"
+
+msgid "cert_bd_change_password"
+msgstr "Palavra-passe"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "Seleccionar"
+
+msgid "cert_error_cert_exist"
+msgstr "Certificado já instalado"
+
+msgid "cert_error_install"
+msgstr ""
+"Certificado inválido.\n"
+"Não foi possível instalar."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "Certificado do servidor %s (número de série: %s) não válido"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "Certificado do utilizador %s (número de série: %s) não válido"
+
+msgid "cert_fi_certmang_expired"
+msgstr "Válido até"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "Impressão digital (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "Emitido por"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "Emitido para"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "Auto-assinado"
+
+msgid "cert_fi_certmang_valid"
+msgstr "Válido de"
+
+msgid "cert_ia_explain_file_password"
+msgstr "%s é protegido por palavra-passe"
+
+msgid "cert_ia_password"
+msgstr "Palavra-passe:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "Certificado instalado com êxito"
+
+msgid "cert_ib_installed_certificates"
+msgstr "Certificados instalados com êxito"
+
+msgid "cert_ib_uninstalled"
+msgstr "Certificado eliminado"
+
+msgid "cert_li_certificate_signing"
+msgstr "Certificado de assinatura"
+
+msgid "cert_li_certificate_user"
+msgstr "Certificado do utilizador"
+
+msgid "cert_nc_confirm_dialog"
+msgstr ""
+"Eliminar certificado?\n"
+"%s"
+
+msgid "cert_nc_expired"
+msgstr ""
+"Certificado actualmente inválido.\n"
+"Verificar as definições de data e hora."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "E-mail"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "Servidor"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "WLAN "
+
+msgid "cert_ti_application_trust"
+msgstr "Seleccionar objectivo"
+
+msgid "cert_ti_enter_file_password"
+msgstr "Introduzir a palavra-passe do ficheiro"
+
+msgid "cert_ti_enter_password"
+msgstr "Introduza a palavra-passe do certificado"
+
+msgid "cert_ti_install_certificate"
+msgstr "Instalar certificado"
+
+msgid "cert_ti_install_certificates"
+msgstr "Instalar certificados"
+
+msgid "cert_ti_key_password"
+msgstr "Introduzir a palavra-passe da chave privada"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "Todo os utilizadores"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "Autoridades"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "Importar certificado"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "Utilizador"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "Válido para"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "Detalhes do certificado"

@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-certman 20091109114416\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cema_ap_application_title"
+msgstr "Gestione certificati"
+
+msgid "cer_ib_incorrect"
+msgstr "Password errata"
+
+msgid "cert_bd_c_delete"
+msgstr "Elimina"
+
+msgid "cert_bd_cd_install"
+msgstr "Installa"
+
+msgid "cert_bd_change_password"
+msgstr "Password"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "Seleziona"
+
+msgid "cert_error_cert_exist"
+msgstr "Certificato già installato"
+
+msgid "cert_error_install"
+msgstr ""
+"Questo certificato non è valido.\n"
+"È impossibile eseguirne l'installazione."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "Certificato del server %s (numero di serie: %s) non valido"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "Certificato dell'utente %s (numero di serie: %s) non valido"
+
+msgid "cert_fi_certmang_expired"
+msgstr "Valido fino"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "Impronta (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "Rilasciato da"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "Rilasciato a"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "Autofirmato"
+
+msgid "cert_fi_certmang_valid"
+msgstr "Valido da"
+
+msgid "cert_ia_explain_file_password"
+msgstr "%s è protetto da password"
+
+msgid "cert_ia_password"
+msgstr "Password:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "Installazione del certificato completata"
+
+msgid "cert_ib_installed_certificates"
+msgstr "Installazione dei certificati completata"
+
+msgid "cert_ib_uninstalled"
+msgstr "Certificato eliminato"
+
+msgid "cert_li_certificate_signing"
+msgstr "Certificato firmato"
+
+msgid "cert_li_certificate_user"
+msgstr "Certificato dell'utente"
+
+msgid "cert_nc_confirm_dialog"
+msgstr ""
+"Eliminare il certificato?\n"
+"%s"
+
+msgid "cert_nc_expired"
+msgstr ""
+"Questo certificato non è valido.\n"
+"Verificare che la data e l'ora siano corrette."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "E-mail"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "Server"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "WLAN "
+
+msgid "cert_ti_application_trust"
+msgstr "Installa il certificato per"
+
+msgid "cert_ti_enter_file_password"
+msgstr "Inserire la password del file"
+
+msgid "cert_ti_enter_password"
+msgstr "Password certificato"
+
+msgid "cert_ti_install_certificate"
+msgstr "Installa il certificato"
+
+msgid "cert_ti_install_certificates"
+msgstr "Installa certificati"
+
+msgid "cert_ti_key_password"
+msgstr "Immetti la password della chiave privata"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "Tutti gli utenti"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "Autorità"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "Importa certificato"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "Utente"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "Valido per"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "Dettagli del certificato"

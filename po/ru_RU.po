@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-certman 20091109114416\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "cema_ap_application_title"
+msgstr "Сертификаты"
+
+msgid "cer_ib_incorrect"
+msgstr "Неверный пароль"
+
+msgid "cert_bd_c_delete"
+msgstr "Удалить"
+
+msgid "cert_bd_cd_install"
+msgstr "Установить"
+
+msgid "cert_bd_change_password"
+msgstr "Пароль"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "Готово"
+
+msgid "cert_error_cert_exist"
+msgstr "Сертификат уже установлен"
+
+msgid "cert_error_install"
+msgstr ""
+"Неверный сертификат.\n"
+"Не удается установить."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "Сертификат сервера %s (серийный номер: %s) недействителен"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "Сертификат пользователя %s (серийный номер: %s) недействителен"
+
+msgid "cert_fi_certmang_expired"
+msgstr "Действует до"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "Отпечаток (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "Кем выдан"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "Кому выдан"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "Самоподписанный"
+
+msgid "cert_fi_certmang_valid"
+msgstr "Действует с"
+
+msgid "cert_ia_explain_file_password"
+msgstr "%s - защищено паролем"
+
+msgid "cert_ia_password"
+msgstr "Пароль:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "Сертификат успешно установлен"
+
+msgid "cert_ib_installed_certificates"
+msgstr "Сертификаты успешно установлены"
+
+msgid "cert_ib_uninstalled"
+msgstr "Сертификат удален"
+
+msgid "cert_li_certificate_signing"
+msgstr "Сертификат подписи"
+
+msgid "cert_li_certificate_user"
+msgstr "Сертификат пользователя"
+
+msgid "cert_nc_confirm_dialog"
+msgstr ""
+"Удалить сертификат?\n"
+"%s"
+
+msgid "cert_nc_expired"
+msgstr ""
+"Сертификат в настоящий момент не действителен.\n"
+"Проверьте настройки даты и времени."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "Электронная почта"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "Сервер"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "WLAN "
+
+msgid "cert_ti_application_trust"
+msgstr "Выбрать цель"
+
+msgid "cert_ti_enter_file_password"
+msgstr "Введите пароль"
+
+msgid "cert_ti_enter_password"
+msgstr "Введите пароль"
+
+msgid "cert_ti_install_certificate"
+msgstr "Установить сертификат"
+
+msgid "cert_ti_install_certificates"
+msgstr "Установить сертификаты"
+
+msgid "cert_ti_key_password"
+msgstr "Введите пароль личного ключа"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "Все пользователи"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "Центр"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "Импортировать сертификат"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "Пользователь"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "Действителен для"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "Свойства сертификата"

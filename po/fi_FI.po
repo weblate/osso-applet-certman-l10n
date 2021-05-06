@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-certman 20091109114416\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cema_ap_application_title"
+msgstr "Varmenteiden hallinta"
+
+msgid "cer_ib_incorrect"
+msgstr "Väärä salasana"
+
+msgid "cert_bd_c_delete"
+msgstr "Poista"
+
+msgid "cert_bd_cd_install"
+msgstr "Asenna"
+
+msgid "cert_bd_change_password"
+msgstr "Salasana"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "Valitse"
+
+msgid "cert_error_cert_exist"
+msgstr "Varmenne on jo asennettu"
+
+msgid "cert_error_install"
+msgstr ""
+"Virheellinen varmenne.\n"
+"Asentaminen ei onnistu."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "Palvelinvarmenne %s (sarjanumero: %s) ei ole voimassa"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "Käyttäjävarmenne %s (sarjanumero: %s) ei ole voimassa"
+
+msgid "cert_fi_certmang_expired"
+msgstr "Voimassaolo päättyy"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "Sormenjälki (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "Myöntäjä"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "Myönnetty"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "Itse allekirjoitettu"
+
+msgid "cert_fi_certmang_valid"
+msgstr "Voimassaolo alkaa"
+
+msgid "cert_ia_explain_file_password"
+msgstr "%s on salasanasuojattu"
+
+msgid "cert_ia_password"
+msgstr "Salasana:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "Varmenteen asennus onnistui"
+
+msgid "cert_ib_installed_certificates"
+msgstr "Varmenteiden asennus onnistui"
+
+msgid "cert_ib_uninstalled"
+msgstr "Varmenne poistettiin"
+
+msgid "cert_li_certificate_signing"
+msgstr "Allekirjoitusvarmenne"
+
+msgid "cert_li_certificate_user"
+msgstr "Käyttäjävarmenne"
+
+msgid "cert_nc_confirm_dialog"
+msgstr ""
+"Poistetaanko varmenne?\n"
+"%s"
+
+msgid "cert_nc_expired"
+msgstr ""
+"Varmenne ei ole voimassa.\n"
+"Tarkista päivämäärä- ja aika-asetukset."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "Sähköposti"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "Palvelin"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "WLAN-yhteys "
+
+msgid "cert_ti_application_trust"
+msgstr "Valitse tarkoitus"
+
+msgid "cert_ti_enter_file_password"
+msgstr "Anna tiedoston salasana"
+
+msgid "cert_ti_enter_password"
+msgstr "Anna varmenteen salasana"
+
+msgid "cert_ti_install_certificate"
+msgstr "Asenna varmenne"
+
+msgid "cert_ti_install_certificates"
+msgstr "Asenna varmenteet"
+
+msgid "cert_ti_key_password"
+msgstr "Annan salaisen avaimen salasana"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "Kaikki käyttäjät"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "Myöntäjä"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "Tuo varmenne"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "Käyttäjä"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "Voimassa"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "Varmenteen tiedot"

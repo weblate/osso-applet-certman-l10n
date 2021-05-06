@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-certman 20091109114416\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cema_ap_application_title"
+msgstr "Certifikathanteraren"
+
+msgid "cer_ib_incorrect"
+msgstr "Felaktigt lösenord"
+
+msgid "cert_bd_c_delete"
+msgstr "Ta bort"
+
+msgid "cert_bd_cd_install"
+msgstr "Installera"
+
+msgid "cert_bd_change_password"
+msgstr "Lösenord"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "Välj"
+
+msgid "cert_error_cert_exist"
+msgstr "Certifikatet är redan installerat"
+
+msgid "cert_error_install"
+msgstr ""
+"Ogiltigt certifikat.\n"
+"Det gick inte att installera."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "Servercertifikat %s (serienummer: %s) är ogiltigt"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "Användarcertifikat %s (serienummer: %s) är ogiltigt"
+
+msgid "cert_fi_certmang_expired"
+msgstr "Giltigt till"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "Fingeravtryck (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "Utfärdat av"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "Utfärdat till"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "Självsignerat"
+
+msgid "cert_fi_certmang_valid"
+msgstr "Giltigt från"
+
+msgid "cert_ia_explain_file_password"
+msgstr "%s är lösenordsskyddad"
+
+msgid "cert_ia_password"
+msgstr "Lösenord:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "Certifikatet har installerats"
+
+msgid "cert_ib_installed_certificates"
+msgstr "Certifikaten har installerats"
+
+msgid "cert_ib_uninstalled"
+msgstr "Certifikatet har tagits bort"
+
+msgid "cert_li_certificate_signing"
+msgstr "Signeringscertifikat"
+
+msgid "cert_li_certificate_user"
+msgstr "Användarcertifikat"
+
+msgid "cert_nc_confirm_dialog"
+msgstr ""
+"Vill du ta bort certifikatet?\n"
+"%s"
+
+msgid "cert_nc_expired"
+msgstr ""
+"Certifikatet gäller inte.\n"
+"Kontrollera datum- och tid."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "E-post"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "Server"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "WLAN "
+
+msgid "cert_ti_application_trust"
+msgstr "Välj syfte"
+
+msgid "cert_ti_enter_file_password"
+msgstr "Ange lösenord för filen"
+
+msgid "cert_ti_enter_password"
+msgstr "Lösenord för certifikatet"
+
+msgid "cert_ti_install_certificate"
+msgstr "Installera certifikat"
+
+msgid "cert_ti_install_certificates"
+msgstr "Installera certifikat"
+
+msgid "cert_ti_key_password"
+msgstr "Ange lösenord för privat nyckel"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "Samtliga användare"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "Utfärdare"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "Importera certifikat"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "Användare"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "Giltigt för"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "Certifikatinformation"

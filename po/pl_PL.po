@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-certman 20091109114416\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "cema_ap_application_title"
+msgstr "Menedżer certyfikatów"
+
+msgid "cer_ib_incorrect"
+msgstr "Nieprawidłowe hasło"
+
+msgid "cert_bd_c_delete"
+msgstr "Usuń"
+
+msgid "cert_bd_cd_install"
+msgstr "Instaluj"
+
+msgid "cert_bd_change_password"
+msgstr "Hasło"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "Wybierz"
+
+msgid "cert_error_cert_exist"
+msgstr "Certyfikat został już zainstalowany"
+
+msgid "cert_error_install"
+msgstr ""
+"Certyfikat nieważny.\n"
+"Nie można zainstalować."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "Certyfikat serwera %s (nr seryjny: %s) stracił ważność"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "Certyfikat użytkownika %s (nr seryjny: %s) stracił ważność"
+
+msgid "cert_fi_certmang_expired"
+msgstr "Ważny do"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "Odcisk palca (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "Wydany przez"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "Wydany dla"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "Z podpisem własnym"
+
+msgid "cert_fi_certmang_valid"
+msgstr "Ważny od"
+
+msgid "cert_ia_explain_file_password"
+msgstr "%s jest chroniony hasłem"
+
+msgid "cert_ia_password"
+msgstr "Hasło:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "Instalacja certyfikatu powiodła się"
+
+msgid "cert_ib_installed_certificates"
+msgstr "Instalacja certyfikatów powiodła się"
+
+msgid "cert_ib_uninstalled"
+msgstr "Usunięto certyfikat"
+
+msgid "cert_li_certificate_signing"
+msgstr "Certyfikat CA"
+
+msgid "cert_li_certificate_user"
+msgstr "Certyfikat użytkownika"
+
+msgid "cert_nc_confirm_dialog"
+msgstr ""
+"Usunąć certyfikat?\n"
+"%s"
+
+msgid "cert_nc_expired"
+msgstr ""
+"Certyfikat stracił ważność.\n"
+"Sprawdź ustawienia daty i godziny."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "E-mail"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "Serwer"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "Sieć WLAN "
+
+msgid "cert_ti_application_trust"
+msgstr "Wybierz cel"
+
+msgid "cert_ti_enter_file_password"
+msgstr "Hasło pliku:"
+
+msgid "cert_ti_enter_password"
+msgstr "Hasło certyfikatu:"
+
+msgid "cert_ti_install_certificate"
+msgstr "Instaluj certyfikat"
+
+msgid "cert_ti_install_certificates"
+msgstr "Instaluj certyfikaty"
+
+msgid "cert_ti_key_password"
+msgstr "Hasło klucza prywatnego:"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "Wszystkich użytkowników"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "Wydawcy certyfikatu"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "Importuj certyfikat"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "Użytkownik"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "Ważny dla"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "Szczegóły certyfikatu"

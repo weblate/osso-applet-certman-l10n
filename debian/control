@@ -1,0 +1,119 @@
+Source: osso-applet-certman-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: osso-applet-certman-l10n-mr0
+Section: misc
+Architecture: all
+Provides: osso-applet-certman-l10n-mr
+Depends: osso-applet-certman-l10n-ruru, osso-applet-certman-l10n-frfr, osso-applet-certman-l10n-frca, osso-applet-certman-l10n-dadk, osso-applet-certman-l10n-itit, osso-applet-certman-l10n-svse, osso-applet-certman-l10n-nono, osso-applet-certman-l10n-fifi, osso-applet-certman-l10n-nlnl, osso-applet-certman-l10n-enus, osso-applet-certman-l10n-dede, osso-applet-certman-l10n-esmx, osso-applet-certman-l10n-eses, osso-applet-certman-l10n-cscz, osso-applet-certman-l10n-ptpt, osso-applet-certman-l10n-engb, osso-applet-certman-l10n-plpl
+Description: osso-applet-certman marketing release package
+ This is a metapackage for osso-applet-certman to pull all the l10n packages.
+ Application developers of osso-applet-certman should depend on
+ "osso-applet-certman-l10n-mr0 | osso-applet-certman-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: osso-applet-certman-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (cs_CZ)
+ Language files for cs_CZ osso-applet-certman.
+
+Package: osso-applet-certman-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (da_DK)
+ Language files for da_DK osso-applet-certman.
+
+Package: osso-applet-certman-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (de_DE)
+ Language files for de_DE osso-applet-certman.
+
+Package: osso-applet-certman-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (en_GB)
+ Language files for en_GB osso-applet-certman.
+
+Package: osso-applet-certman-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (en_US)
+ Language files for en_US osso-applet-certman.
+
+Package: osso-applet-certman-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (es_ES)
+ Language files for es_ES osso-applet-certman.
+
+Package: osso-applet-certman-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (es_MX)
+ Language files for es_MX osso-applet-certman.
+
+Package: osso-applet-certman-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (fi_FI)
+ Language files for fi_FI osso-applet-certman.
+
+Package: osso-applet-certman-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (fr_CA)
+ Language files for fr_CA osso-applet-certman.
+
+Package: osso-applet-certman-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (fr_FR)
+ Language files for fr_FR osso-applet-certman.
+
+Package: osso-applet-certman-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (it_IT)
+ Language files for it_IT osso-applet-certman.
+
+Package: osso-applet-certman-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (nl_NL)
+ Language files for nl_NL osso-applet-certman.
+
+Package: osso-applet-certman-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (no_NO)
+ Language files for no_NO osso-applet-certman.
+
+Package: osso-applet-certman-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (pl_PL)
+ Language files for pl_PL osso-applet-certman.
+
+Package: osso-applet-certman-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (pt_PT)
+ Language files for pt_PT osso-applet-certman.
+
+Package: osso-applet-certman-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (ru_RU)
+ Language files for ru_RU osso-applet-certman.
+
+Package: osso-applet-certman-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for osso-applet-certman (sv_SE)
+ Language files for sv_SE osso-applet-certman.

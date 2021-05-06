@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-certman 20091109114416\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "cema_ap_application_title"
+msgstr "Správce certifikátů"
+
+msgid "cer_ib_incorrect"
+msgstr "Nesprávné heslo"
+
+msgid "cert_bd_c_delete"
+msgstr "Odstranit"
+
+msgid "cert_bd_cd_install"
+msgstr "Nainstalovat"
+
+msgid "cert_bd_change_password"
+msgstr "Heslo"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "Vybrat"
+
+msgid "cert_error_cert_exist"
+msgstr "Certifikát již nainstalován"
+
+msgid "cert_error_install"
+msgstr ""
+"Neplatný certifikát.\n"
+"Nelze nainstalovat."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "Certifikát serveru %s (sériové číslo: %s) není platný."
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "Certifikát uživatele %s (sériové číslo: %s) není platný."
+
+msgid "cert_fi_certmang_expired"
+msgstr "Platný do:"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "Otisk (%s):"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "Vydán kým:"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "Vydán pro:"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "S vlastním podpisem"
+
+msgid "cert_fi_certmang_valid"
+msgstr "Platný od:"
+
+msgid "cert_ia_explain_file_password"
+msgstr "%s je chráněn heslem"
+
+msgid "cert_ia_password"
+msgstr "Heslo:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "Certifikát úspěšně nainstalován"
+
+msgid "cert_ib_installed_certificates"
+msgstr "Certifikáty úspěšně nainstalovány"
+
+msgid "cert_ib_uninstalled"
+msgstr "Certifikát odstraněn"
+
+msgid "cert_li_certificate_signing"
+msgstr "Certifikát CA:  "
+
+msgid "cert_li_certificate_user"
+msgstr "Certifikát uživatele:  "
+
+msgid "cert_nc_confirm_dialog"
+msgstr ""
+"Odstranit certifikát?\n"
+"%s"
+
+msgid "cert_nc_expired"
+msgstr ""
+"Certifikát není aktuálně platný.\n"
+"Zkontrolujte nastavení data a času."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "E-mail"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "Server"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "WLAN "
+
+msgid "cert_ti_application_trust"
+msgstr "Zvolte účel"
+
+msgid "cert_ti_enter_file_password"
+msgstr "Vložte heslo souboru"
+
+msgid "cert_ti_enter_password"
+msgstr "Vložte heslo certifikátu"
+
+msgid "cert_ti_install_certificate"
+msgstr "Instalace certifikátu"
+
+msgid "cert_ti_install_certificates"
+msgstr "Nainstalovat certifikáty"
+
+msgid "cert_ti_key_password"
+msgstr "Vložte heslo soukromého klíče"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "Všichni uživatelé"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "Certifikační autority"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "Importovat certifikát"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "Uživatel"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "Platný pro"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "Podrobnosti certifikátu"

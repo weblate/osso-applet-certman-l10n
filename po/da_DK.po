@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-certman 20091109114416\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cema_ap_application_title"
+msgstr "Certifikatstyring"
+
+msgid "cer_ib_incorrect"
+msgstr "Forkert adgangskode"
+
+msgid "cert_bd_c_delete"
+msgstr "Slet"
+
+msgid "cert_bd_cd_install"
+msgstr "Installer"
+
+msgid "cert_bd_change_password"
+msgstr "Adgangskode"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "Vælg"
+
+msgid "cert_error_cert_exist"
+msgstr "Certifikatet er allerede installeret"
+
+msgid "cert_error_install"
+msgstr ""
+"Ugyldigt certifikat.\n"
+"Kan ikke installere."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "Servercertifikatet %s (serienummer: %s) er ikke gyldigt"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "Brugercertifikatet %s (serienummer: %s) er ikke gyldigt"
+
+msgid "cert_fi_certmang_expired"
+msgstr "Gyldigt til"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "Fingeraftryk (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "Udstedt af"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "Udstedt til"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "Selvsigneret"
+
+msgid "cert_fi_certmang_valid"
+msgstr "Gyldigt fra"
+
+msgid "cert_ia_explain_file_password"
+msgstr "%s er beskyttet med adgangskode"
+
+msgid "cert_ia_password"
+msgstr "Adgangskode:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "Certifikat installeret"
+
+msgid "cert_ib_installed_certificates"
+msgstr "Certifikater installeret"
+
+msgid "cert_ib_uninstalled"
+msgstr "Certifikat slettet"
+
+msgid "cert_li_certificate_signing"
+msgstr "Signerer certifikat"
+
+msgid "cert_li_certificate_user"
+msgstr "Brugercertifikat"
+
+msgid "cert_nc_confirm_dialog"
+msgstr ""
+"Slet certifikat?\n"
+"%s"
+
+msgid "cert_nc_expired"
+msgstr ""
+"Certifikatet er ikke gyldigt.\n"
+"Kontroller indstillinger for dato og klokkeslæt."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "E-mail"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "Server"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "WLAN "
+
+msgid "cert_ti_application_trust"
+msgstr "Vælg formål"
+
+msgid "cert_ti_enter_file_password"
+msgstr "Indtast adgangskode til fil"
+
+msgid "cert_ti_enter_password"
+msgstr "Indtast adgangskode til certifikat"
+
+msgid "cert_ti_install_certificate"
+msgstr "Installer certifikat"
+
+msgid "cert_ti_install_certificates"
+msgstr "Installer certifikater"
+
+msgid "cert_ti_key_password"
+msgstr "Indtast adgangskode til privat nøgle"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "Alle brugere"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "Nøglecentre"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "Importer certifikat"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "Bruger"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "Gyldig til"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "Certifikatdetaljer"
