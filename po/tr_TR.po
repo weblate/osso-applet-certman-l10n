@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-certman 20091109114416\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.08 13:50+0300\n"
+"PO-Revision-Date: 2010-05-30 10:37+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cema_ap_application_title"
+msgstr "Sertifika yöneticisi"
+
+msgid "cer_ib_incorrect"
+msgstr "Geçersiz parola"
+
+msgid "cert_bd_c_delete"
+msgstr "Sil"
+
+msgid "cert_bd_cd_install"
+msgstr "Kur"
+
+msgid "cert_bd_change_password"
+msgstr "Parola"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "Seç"
+
+msgid "cert_error_cert_exist"
+msgstr "Sertifika zaten kurulu"
+
+msgid "cert_error_install"
+msgstr ""
+"Geçersiz sertifika.\n"
+"Kurulamıyor."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "Sunucu sertifikası %s (seri numarası: %s) geçerli değil"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "Kullanıcı sertifikası %s (seri numarası: %s) geçerli değil"
+
+msgid "cert_fi_certmang_expired"
+msgstr "Geçersizlik tarihi"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "Parmakizi (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "Veren"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "Verilen"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "Kendiliğinden imzalı"
+
+msgid "cert_fi_certmang_valid"
+msgstr "Verildiği tarih"
+
+msgid "cert_ia_explain_file_password"
+msgstr "%s parola korumalıdır"
+
+msgid "cert_ia_password"
+msgstr "Parola:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "Sertifika başarıyla kuruldu"
+
+msgid "cert_ib_installed_certificates"
+msgstr "Sertifikalar başarıyla kuruldu"
+
+msgid "cert_ib_uninstalled"
+msgstr "Sertifika silindi"
+
+msgid "cert_li_certificate_signing"
+msgstr "Sertifika imzalanıyor"
+
+msgid "cert_li_certificate_user"
+msgstr "Kullanıcı sertifikası"
+
+msgid "cert_nc_confirm_dialog"
+msgstr ""
+"Sertifikayı sil?\n"
+"%s"
+
+msgid "cert_nc_expired"
+msgstr ""
+"Sertifika şimdi geçerli değil.\n"
+"Tarih ve zaman ayarlarınızı kontrol edin."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "E-posta"
+
+msgid "cert_nc_purpose_software_signing"
+msgstr "Uygulama güncellemeleri"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "Sunucu"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "Wi-Fi"
+
+msgid "cert_ti_application_trust"
+msgstr "Amaç seçin"
+
+msgid "cert_ti_enter_file_password"
+msgstr "Dosya parolası girin"
+
+msgid "cert_ti_enter_password"
+msgstr "Sertifika parolası girin"
+
+msgid "cert_ti_install_certificate"
+msgstr "Sertifika kur"
+
+msgid "cert_ti_install_certificates"
+msgstr "Sertifikaları kur"
+
+msgid "cert_ti_key_password"
+msgstr "Özel anahtar parolasını girin"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "Tüm kullanıcılar"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "Otoriteler"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "Sertifika içe aktar"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "Kullanıcı"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "Geçerlilik"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "Sertifika detayları"
+
