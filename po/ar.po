@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-certman 20091109114416\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-04-28 00:21+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cema_ap_application_title"
+msgstr "مدير الشهادات"
+
+msgid "cer_ib_incorrect"
+msgstr "كلمة السر غير صحيحة"
+
+msgid "cert_bd_c_delete"
+msgstr "حذف"
+
+msgid "cert_bd_cd_install"
+msgstr "تثبيت"
+
+msgid "cert_bd_change_password"
+msgstr "كلمة السر"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "تحديد"
+
+msgid "cert_error_cert_exist"
+msgstr "الشهادة محمله بالفعل"
+
+msgid "cert_error_install"
+msgstr ""
+"شهادة غير صالحة.\n"
+"غير قادر على التثبيت."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "خادم الشهادات %s (الرقم التسلسلي: %s) غير صالح"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "شهادة المستخدم %s (الرقم التسلسلي: %s) غير صالح"
+
+msgid "cert_fi_certmang_expired"
+msgstr "ساري المفعول إلى"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "البصمة (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "صادر عن"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "إصدرات ل"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "توقيع ذاتي"
+
+msgid "cert_fi_certmang_valid"
+msgstr "صالحة من"
+
+msgid "cert_ia_explain_file_password"
+msgstr "%s محمي بكلمة سر"
+
+msgid "cert_ia_password"
+msgstr "كلمة السر:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "تم تثبيت الشهادة بنجاح"
+
+msgid "cert_ib_installed_certificates"
+msgstr "تم تثبيت الشهادات بنجاح"
+
+msgid "cert_ib_uninstalled"
+msgstr "تم حذف الشهادة"
+
+msgid "cert_li_certificate_signing"
+msgstr "توقيع الشهادة"
+
+msgid "cert_li_certificate_user"
+msgstr "شهادة المستخدم"
+
+msgid "cert_nc_confirm_dialog"
+msgstr ""
+"حذف الشهادة?\n"
+"%s"
+
+msgid "cert_nc_expired"
+msgstr ""
+"الشهاد غير صالحة حاليا.\n"
+"تأكد من إعدادات التاريخ والوقت."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "البريد الألكتروني"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "الخادم"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "Wi-Fi "
+
+msgid "cert_ti_application_trust"
+msgstr "حدد الغرض"
+
+msgid "cert_ti_enter_file_password"
+msgstr "أدخل كلمة السر للملف"
+
+msgid "cert_ti_enter_password"
+msgstr "أدخل كلمة السر للشهادة"
+
+msgid "cert_ti_install_certificate"
+msgstr "تثبيت الشهادة"
+
+msgid "cert_ti_install_certificates"
+msgstr "تثبيت الشهادات"
+
+msgid "cert_ti_key_password"
+msgstr "أدخل المفتاح الخاص بكلمة السر"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "جميع المستخدمين"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "السلطة"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "أستيراد الشهادة"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "المستخدم"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "سارية المفعول إلى"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "تفاصيل الشهادة"
+
