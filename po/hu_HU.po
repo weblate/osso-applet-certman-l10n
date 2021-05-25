@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-certman 20091109114416\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-02-22 13:57+0100\n"
+"Last-Translator: attilaposa <laposa@pannongsm.hu>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cema_ap_application_title"
+msgstr "Tanúsítvány kezelő"
+
+msgid "cer_ib_incorrect"
+msgstr "Helytelen jelszó"
+
+msgid "cert_bd_c_delete"
+msgstr "Törlés"
+
+msgid "cert_bd_cd_install"
+msgstr "Telepítés"
+
+msgid "cert_bd_change_password"
+msgstr "Jelszó"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "Kiválaszt"
+
+msgid "cert_error_cert_exist"
+msgstr "Tanúsítvány már telepítve"
+
+msgid "cert_error_install"
+msgstr "Érvénytelen tanúsítvány./n.Nem lehet telepíteni."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "Kiszolgáló tanúsítvány %s (sorozatszám: %s) érvénytelen"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "Felhasználói tanúsítvány %s (sorozatszám: %s) érvénytelen"
+
+msgid "cert_fi_certmang_expired"
+msgstr "Lejárat dátuma"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "Ujjlenyomat (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "Kibocsátó"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "Kibocsátva"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "Ön-aláírt"
+
+msgid "cert_fi_certmang_valid"
+msgstr "Érvényesség kezdete"
+
+msgid "cert_ia_explain_file_password"
+msgstr "%s jelszóval védve"
+
+msgid "cert_ia_password"
+msgstr "Jelszó:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "Tanúsítvány sikeresen telepítve"
+
+msgid "cert_ib_installed_certificates"
+msgstr "Tanúsítványok sikeresen telepítve"
+
+msgid "cert_ib_uninstalled"
+msgstr "Tanúsítvány törölve"
+
+msgid "cert_li_certificate_signing"
+msgstr "Tanúsítvány aláírása"
+
+msgid "cert_li_certificate_user"
+msgstr "Felhasználói tanúsítvány"
+
+msgid "cert_nc_confirm_dialog"
+msgstr ""
+"Törli a tanúsítványt?\n"
+"%s"
+
+msgid "cert_nc_expired"
+msgstr ""
+"A tanúsítvány jelenleg nem érvényes.\n"
+" Ellenőrizzd a dátum és idő beállításokat."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "E-mail"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "Kiszolgáló"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "WLAN"
+
+msgid "cert_ti_application_trust"
+msgstr "Válassz célt"
+
+msgid "cert_ti_enter_file_password"
+msgstr "Írd be a fájl jelszavát"
+
+msgid "cert_ti_enter_password"
+msgstr "Írd be a tanúsítvány jelszavát"
+
+msgid "cert_ti_install_certificate"
+msgstr "Tanúsítvány telepítése"
+
+msgid "cert_ti_install_certificates"
+msgstr "Tanúsítványok telepítése"
+
+msgid "cert_ti_key_password"
+msgstr "Írj be saját jelszót"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "Minden felhasználó"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "Hatóságok"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "Tanúsítvány impotálása"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "Felhasználó"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "Érvényes"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "Tanúsítvány adatai"
+
