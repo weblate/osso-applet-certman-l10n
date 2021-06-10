@@ -1,0 +1,135 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-11-30 11:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "cema_ap_application_title"
+msgstr "인증서 관리자"
+
+msgid "cer_ib_incorrect"
+msgstr "잘못된 비밀번호입니다"
+
+msgid "cert_bd_c_delete"
+msgstr "삭제"
+
+msgid "cert_bd_cd_install"
+msgstr "설치"
+
+msgid "cert_bd_change_password"
+msgstr "비밀번호"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "선택"
+
+msgid "cert_error_cert_exist"
+msgstr "인증서가 이미 설치돼 있습니다"
+
+msgid "cert_error_install"
+msgstr "올바르지 않은 인증서 입니다.\n설치할 수가 없습니다."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "서버 인증서 %s (일련번호: %s) 은 유효하지 않습니다"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "사용자 인증서 %s (일련번호: %s) 은 유효하지 않습니다"
+
+msgid "cert_fi_certmang_expired"
+msgstr "유효기간 만료일"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "지문 (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "발행자:"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "신청자:"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "자체 인증됨"
+
+msgid "cert_fi_certmang_valid"
+msgstr "유효기간 시작일"
+
+msgid "cert_ia_explain_file_password"
+msgstr "%s 은 비밀번호로 보호됨"
+
+msgid "cert_ia_password"
+msgstr "비밀번호:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "인증서가 성공적으로 설치되었습니다"
+
+msgid "cert_ib_installed_certificates"
+msgstr "인증서들이 성공적으로 설치되었습니다"
+
+msgid "cert_ib_uninstalled"
+msgstr "인증서가 삭제되었습니다"
+
+msgid "cert_li_certificate_signing"
+msgstr "인증서 인증 중"
+
+msgid "cert_li_certificate_user"
+msgstr "사용자 인증서"
+
+msgid "cert_nc_confirm_dialog"
+msgstr "인증서를 삭제하시겠습니까?\n%s"
+
+msgid "cert_nc_expired"
+msgstr "인증서가 현재 유효하지 않습니다\n날짜와 시간 설정을 확인하시기 바랍니다."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "이메일"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "서버"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "Wi-Fi "
+
+msgid "cert_ti_application_trust"
+msgstr "용도 선택"
+
+msgid "cert_ti_enter_file_password"
+msgstr "파일 비밀번호 입력"
+
+msgid "cert_ti_enter_password"
+msgstr "인증서 비밀번호 입력"
+
+msgid "cert_ti_install_certificate"
+msgstr "인증서 설치"
+
+msgid "cert_ti_install_certificates"
+msgstr "인증서들 설치"
+
+msgid "cert_ti_key_password"
+msgstr "개인 키 비밀번호 입력"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "모든 사용자들"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "인가자"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "인증서 가져오기"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "사용자"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "유효기간"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "인증서 정보"
