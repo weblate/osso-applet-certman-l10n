@@ -1,0 +1,135 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-11-30 11:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "cema_ap_application_title"
+msgstr "证书管理器"
+
+msgid "cer_ib_incorrect"
+msgstr "密码错误"
+
+msgid "cert_bd_c_delete"
+msgstr "删除"
+
+msgid "cert_bd_cd_install"
+msgstr "安装"
+
+msgid "cert_bd_change_password"
+msgstr "密码"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "确定"
+
+msgid "cert_error_cert_exist"
+msgstr "证书已经安装"
+
+msgid "cert_error_install"
+msgstr "证书无效.\n无法安装."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "服务器证书 %s (序列号: %s) 无效"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "用户证书 %s (序列号: %s) 无效"
+
+msgid "cert_fi_certmang_expired"
+msgstr "有效期至:"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "指纹 (%s):"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "发行者:"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "发行给:"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "自签名"
+
+msgid "cert_fi_certmang_valid"
+msgstr "有效期自:"
+
+msgid "cert_ia_explain_file_password"
+msgstr "密码保护证书 %s"
+
+msgid "cert_ia_password"
+msgstr "密码"
+
+msgid "cert_ib_installed_certificate"
+msgstr "证书已成功安装"
+
+msgid "cert_ib_installed_certificates"
+msgstr "证书已成功安装"
+
+msgid "cert_ib_uninstalled"
+msgstr "证书已被删除"
+
+msgid "cert_li_certificate_signing"
+msgstr "签名证书"
+
+msgid "cert_li_certificate_user"
+msgstr "用户证书"
+
+msgid "cert_nc_confirm_dialog"
+msgstr "删除证书?\n%s"
+
+msgid "cert_nc_expired"
+msgstr "%s 已过期. 请检查时间和日期是否正确."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "电子邮件"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "服务器"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "Wi-Fi"
+
+msgid "cert_ti_application_trust"
+msgstr "信任设置"
+
+msgid "cert_ti_enter_file_password"
+msgstr "输入文件密码"
+
+msgid "cert_ti_enter_password"
+msgstr "输入密码"
+
+msgid "cert_ti_install_certificate"
+msgstr "安装证书"
+
+msgid "cert_ti_install_certificates"
+msgstr "安装证书"
+
+msgid "cert_ti_key_password"
+msgstr "输入私钥密码"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "所有用户"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "授权"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "导入证书"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "用户"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "有效至"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "证书详情"
