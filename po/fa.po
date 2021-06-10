@@ -1,0 +1,136 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2011-11-06 14:48+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "cema_ap_application_title"
+msgstr "مدیر گواهینامه"
+
+msgid "cer_ib_incorrect"
+msgstr "رمز عبور اشتباه است"
+
+msgid "cert_bd_c_delete"
+msgstr "حذف"
+
+msgid "cert_bd_cd_install"
+msgstr "نصب"
+
+msgid "cert_bd_change_password"
+msgstr "رمز عبور"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "انتخاب"
+
+msgid "cert_error_cert_exist"
+msgstr "گواهینامه قبلا نصب شده است"
+
+msgid "cert_error_install"
+msgstr "گواهینامه نامعتبر است.\nنصب ممکن نیست."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "گواهینامه‌ی سرور %s (شماره سریال: %s) معتبر نیست"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "گواهینامه‌ی کاربری %s (شماره سریال: %s) معتبر نیست"
+
+msgid "cert_fi_certmang_expired"
+msgstr "معتبر تا"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "اثر انگشت (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "صادر شده توسط"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "صادر شده برای"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "امضاء خودتان"
+
+msgid "cert_fi_certmang_valid"
+msgstr "معتبر از"
+
+msgid "cert_ia_explain_file_password"
+msgstr "%s توسط رمز عبور محافظ شده است"
+
+msgid "cert_ia_password"
+msgstr "رمز عبور:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "گواهی با موفقیت نصب شد"
+
+msgid "cert_ib_installed_certificates"
+msgstr "گواهینامه‌ها با موفقیت نصب شدند"
+
+msgid "cert_ib_uninstalled"
+msgstr "گواهی حذف شد"
+
+msgid "cert_li_certificate_signing"
+msgstr "امضاء گواهینامه"
+
+msgid "cert_li_certificate_user"
+msgstr "گواهینامه‌ی کاربری"
+
+msgid "cert_nc_confirm_dialog"
+msgstr "حذف گواهی?\n%s"
+
+msgid "cert_nc_expired"
+msgstr "در حال حاضر گواهینامه معتبر نیست.\nتنظیمات تاریخ و ساعت را بررسی کنید."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "ایمیل"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "سرور"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "وایفای"
+
+msgid "cert_ti_application_trust"
+msgstr "انتخاب هدف"
+
+msgid "cert_ti_enter_file_password"
+msgstr "رومز عبور فایل را وارد کنید"
+
+msgid "cert_ti_enter_password"
+msgstr "رمز عبور گواهی را وارد کنید"
+
+msgid "cert_ti_install_certificate"
+msgstr "نصب گواهی"
+
+msgid "cert_ti_install_certificates"
+msgstr "نصب گواهینامه‌ها"
+
+msgid "cert_ti_key_password"
+msgstr "رمز عبور خصوصی را وارد کنید"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "تمام کاربران"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "مقامات"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "وارد کردن گواهی"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "کاربر"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "معتبر برای"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "جزئیات گواهی"
