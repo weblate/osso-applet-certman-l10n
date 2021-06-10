@@ -1,0 +1,135 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2012-05-25 15:20+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "cema_ap_application_title"
+msgstr "Менеджар сертыфікатаў"
+
+msgid "cer_ib_incorrect"
+msgstr "Няправільны пароль"
+
+msgid "cert_bd_c_delete"
+msgstr "Выдаліць"
+
+msgid "cert_bd_cd_install"
+msgstr "Усталяваць"
+
+msgid "cert_bd_change_password"
+msgstr "Пароль"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "Абраць"
+
+msgid "cert_error_cert_exist"
+msgstr "Сертыфікат ужо ўсталяваны"
+
+msgid "cert_error_install"
+msgstr "Няправільны сертыфікат.\nНемагчыма ўсталяваць."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "Сертыфікат сервера %s (серыйны нумар: %s) не дзейны"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "Карыстальніцкі сертыфікат %s (серыйны нумар: %s) не дзейны"
+
+msgid "cert_fi_certmang_expired"
+msgstr "Дзейны да"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "Адбітак (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "Выдадзена ад"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "Выдадзена да"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "Самападпісаны"
+
+msgid "cert_fi_certmang_valid"
+msgstr "Дзейны ад"
+
+msgid "cert_ia_explain_file_password"
+msgstr "%s абаронены паролем"
+
+msgid "cert_ia_password"
+msgstr "Пароль:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "Сертыфікат ужо ўсталяваны"
+
+msgid "cert_ib_installed_certificates"
+msgstr "Сертыфікаты ужо ўсталяваныя"
+
+msgid "cert_ib_uninstalled"
+msgstr "Сертыфікат выдалены"
+
+msgid "cert_li_certificate_signing"
+msgstr "Падпісанне сертыфіката"
+
+msgid "cert_li_certificate_user"
+msgstr "Карыстальніцкі сертыфікат"
+
+msgid "cert_nc_confirm_dialog"
+msgstr "Выдаліць сертыфікат?\n%s"
+
+msgid "cert_nc_expired"
+msgstr "Сертыфікат болей не дзейсны.\nПраверце налады даты і часу."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "Электронная пошта"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "Сервер"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "WLAN"
+
+msgid "cert_ti_application_trust"
+msgstr "Выбраць мэту"
+
+msgid "cert_ti_enter_file_password"
+msgstr "Увядзіце пароль файла"
+
+msgid "cert_ti_enter_password"
+msgstr "Увядзіце пароль сертыфіката"
+
+msgid "cert_ti_install_certificate"
+msgstr "Усталяваць сертыфікат"
+
+msgid "cert_ti_install_certificates"
+msgstr "Усталяваць сертыфікаты"
+
+msgid "cert_ti_key_password"
+msgstr "Увядзіце сакрэтны ключ паролем"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "Усе карыстальнікі"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "Улады"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "Імпартаваць сертыфікаты"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "Карыстальнік"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "Дзейны да"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "Дэталі сертыфіката"
