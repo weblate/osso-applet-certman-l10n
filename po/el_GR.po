@@ -1,0 +1,135 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-11-30 11:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "cema_ap_application_title"
+msgstr "Διαχείριση πιστοποιητικών"
+
+msgid "cer_ib_incorrect"
+msgstr "Λάθος κωδικός"
+
+msgid "cert_bd_c_delete"
+msgstr "Διαγραφή"
+
+msgid "cert_bd_cd_install"
+msgstr "Εγκατάσταση"
+
+msgid "cert_bd_change_password"
+msgstr "Κωδικός"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "Επιλογή"
+
+msgid "cert_error_cert_exist"
+msgstr "Το πιστοποιητικό είναι ήδη εγκατεστημένο"
+
+msgid "cert_error_install"
+msgstr "Άκυρο πιστοποιητικό.\nΑδυναμία εγκατάστασης."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "Το πιστοποιητικό του εξυπηρετητή %s (σειριακός αριθμός: %s) δεν είναι έγκυρο"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "Το πιστοποιητικό του χρήστη %s (σειριακός αριθμός: %s) δεν είναι έγκυρο"
+
+msgid "cert_fi_certmang_expired"
+msgstr "Έγκυρο μέχρι"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "Αποτύπωμα (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "Εκδόθηκε από"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "Εκδόθηκε στον"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "Aυτο-υπογεγραμμένο"
+
+msgid "cert_fi_certmang_valid"
+msgstr "Έγκυρο από"
+
+msgid "cert_ia_explain_file_password"
+msgstr "Το %s είναι προστατευμένο με κωδικό"
+
+msgid "cert_ia_password"
+msgstr "Κωδικός:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "Το πιστοποιητικό εγκαταστάθηκε επιτυχώς"
+
+msgid "cert_ib_installed_certificates"
+msgstr "Τα πιστοποιητικά εγκαταστάθηκαν επιτυχώς"
+
+msgid "cert_ib_uninstalled"
+msgstr "Το πιστοποιητικό διαγράφηκε"
+
+msgid "cert_li_certificate_signing"
+msgstr "Υπογραφή πιστοποιητικού"
+
+msgid "cert_li_certificate_user"
+msgstr "Πιστοποιητικό χρήστη"
+
+msgid "cert_nc_confirm_dialog"
+msgstr "Διαγραφή του πιστοποιητικού;\n%s"
+
+msgid "cert_nc_expired"
+msgstr "Το πιστοποιητικό έληξε.\nΕλέγξτε τις ρυθμίσεις ώρας και ημερομηνίας."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "E-mail"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "Εξυπηρετητής"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "Wi-Fi "
+
+msgid "cert_ti_application_trust"
+msgstr "Επιλέξτε σκοπό"
+
+msgid "cert_ti_enter_file_password"
+msgstr "Εισάγετε τον κωδικό του αρχείου"
+
+msgid "cert_ti_enter_password"
+msgstr "Εισάγετε τον κωδικό του πιστοποιητικού"
+
+msgid "cert_ti_install_certificate"
+msgstr "Εγκαταστήστε το πιστοποιητικό"
+
+msgid "cert_ti_install_certificates"
+msgstr "Εγκαταστήστε τα πιστοποιητικά"
+
+msgid "cert_ti_key_password"
+msgstr "Εισάγετε τον προσωπικό κωδικό"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "Όλους τους χρήστες"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "Εξουσιοδοτήσεις"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "Εισαγωγή πιστοποιητικού"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "Χρήστης"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "Έγκυρο για"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "Λεπτομέρειες πιστοποιητικού"
