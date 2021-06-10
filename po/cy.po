@@ -1,0 +1,136 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2012-02-07 10:24+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "cema_ap_application_title"
+msgstr "Rheolwr tystysgrifau"
+
+msgid "cer_ib_incorrect"
+msgstr "Cyfrinair annilys"
+
+msgid "cert_bd_c_delete"
+msgstr "Dileu"
+
+msgid "cert_bd_cd_install"
+msgstr "Gosod"
+
+msgid "cert_bd_change_password"
+msgstr "Cyfrinair"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "Dewis"
+
+msgid "cert_error_cert_exist"
+msgstr "Tystysgrif eisoes wedi ei osod"
+
+msgid "cert_error_install"
+msgstr "Tystysgrif annilys. Methu ei osod."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "Tystysgrif gweinydd %s (rhif olynol: %s) yn annilys"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "Tystysgrif defnyddiwr %s (rhif olynol: %s) yn annilys"
+
+msgid "cert_fi_certmang_expired"
+msgstr "Dilys hyd at"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "Ôl bys (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "Dosrannir gan"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "Dosrannir i"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "Hunan-lofnodedig"
+
+msgid "cert_fi_certmang_valid"
+msgstr "Dilys o"
+
+msgid "cert_ia_explain_file_password"
+msgstr "Mae %s dan glo cyfrinair"
+
+msgid "cert_ia_password"
+msgstr "Cyfrinair:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "Gosodwyd y tystysgrif yn llwyddiannus"
+
+msgid "cert_ib_installed_certificates"
+msgstr "Gosodwyd y tystysgrifau'n 'lwyddiannus"
+
+msgid "cert_ib_uninstalled"
+msgstr "Dileuwyd y tystysgrif"
+
+msgid "cert_li_certificate_signing"
+msgstr "Tystysgrif llofnodi"
+
+msgid "cert_li_certificate_user"
+msgstr "Tystysgrif defnyddiwr"
+
+msgid "cert_nc_confirm_dialog"
+msgstr "Dileu tystysgrif? %s"
+
+msgid "cert_nc_expired"
+msgstr "Tystysgrif ddim yn ddilys ar hyn o bryd. Gwiriwch eich gosodiadau dyddiad ac amser."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "E-bost"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "Gweinydd"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "Wi-Fi"
+
+msgid "cert_ti_application_trust"
+msgstr "Dewis pwrpas"
+
+msgid "cert_ti_enter_file_password"
+msgstr "Rhowch gyfrinair y ffeil"
+
+msgid "cert_ti_enter_password"
+msgstr "Rhowch gyfrinair y tystysgrif"
+
+msgid "cert_ti_install_certificate"
+msgstr "Gosod tystysgrif"
+
+msgid "cert_ti_install_certificates"
+msgstr "Gosod tystysgrifau"
+
+msgid "cert_ti_key_password"
+msgstr "Rhowch gyfrinair yr allwedd preifat"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "Pob defnyddiwr"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "Awdurdodau"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "Mewnforio tystysgrif"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "Defnyddiwr"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "Dilys am"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "Manylion tystysgrif"
