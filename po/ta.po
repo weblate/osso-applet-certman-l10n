@@ -3,131 +3,139 @@ msgstr ""
 "Project-Id-Version: osso-applet-certman 20091109114416\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.11.09 11:44+0200\n"
-"PO-Revision-Date: 2009.11.09 11:44+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-19 19:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-applet-certman-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "cema_ap_application_title"
-msgstr ""
+msgstr "சான்றிதழ் மேலாளர்"
 
 msgid "cer_ib_incorrect"
-msgstr ""
+msgstr "தவறான கடவுச்சொல்"
 
 msgid "cert_bd_c_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "cert_bd_cd_install"
-msgstr ""
+msgstr "நிறுவவும்"
 
 msgid "cert_bd_change_password"
-msgstr ""
+msgstr "கடவுச்சொல்"
 
 msgid "cert_bd_trust_settings_ok"
-msgstr ""
+msgstr "தேர்ந்தெடு"
 
 msgid "cert_error_cert_exist"
-msgstr ""
+msgstr "சான்றிதழ் ஏற்கனவே நிறுவப்பட்டுள்ளது"
 
 msgid "cert_error_install"
 msgstr ""
+"தவறான சான்றிதழ்.\n"
+" நிறுவ முடியவில்லை."
 
 msgid "cert_error_not_valid_server_certificate"
-msgstr ""
+msgstr "சேவையக சான்றிதழ் %s (வரிசை எண்: %s) செல்லுபடியாகாது"
 
 msgid "cert_error_not_valid_user_certificate"
-msgstr ""
+msgstr "பயனர் சான்றிதழ் %s (வரிசை எண்: %s) செல்லுபடியாகாது"
 
 msgid "cert_fi_certmang_expired"
-msgstr ""
+msgstr "வரை செல்லுபடியாகும்"
 
 msgid "cert_fi_certmang_fingerprint"
-msgstr ""
+msgstr "கைரேகை (%s)"
 
 msgid "cert_fi_certmang_issued_by"
-msgstr ""
+msgstr "வழங்கப்பட்டது"
 
 msgid "cert_fi_certmang_issued_to"
-msgstr ""
+msgstr "வழங்கப்பட்டது"
 
 msgid "cert_fi_certmang_self_signed"
-msgstr ""
+msgstr "தன்வய கையொப்பமிடப்பட்டது"
 
 msgid "cert_fi_certmang_valid"
-msgstr ""
+msgstr "இருந்து செல்லுபடியாகும்"
 
 msgid "cert_ia_explain_file_password"
-msgstr ""
+msgstr "%s என்பது கடவுச்சொல் பாதுகாக்கப்படுகிறது"
 
 msgid "cert_ia_password"
-msgstr ""
+msgstr "கடவுச்சொல்:"
 
 msgid "cert_ib_installed_certificate"
-msgstr ""
+msgstr "சான்றிதழ் வெற்றிகரமாக நிறுவப்பட்டது"
 
 msgid "cert_ib_installed_certificates"
-msgstr ""
+msgstr "சான்றிதழ்கள் வெற்றிகரமாக நிறுவப்பட்டுள்ளன"
 
 msgid "cert_ib_uninstalled"
-msgstr ""
+msgstr "சான்றிதழ் நீக்கப்பட்டது"
 
 msgid "cert_li_certificate_signing"
-msgstr ""
+msgstr "கையொப்பமிடும் சான்றிதழ்"
 
 msgid "cert_li_certificate_user"
-msgstr ""
+msgstr "பயனர் சான்றிதழ்"
 
 msgid "cert_nc_confirm_dialog"
 msgstr ""
+"சான்றிதழை நீக்கவா?\n"
+" %s"
 
 msgid "cert_nc_expired"
 msgstr ""
+"சான்றிதழ் தற்போது செல்லுபடியாகாது.\n"
+" தேதி மற்றும் நேர அமைப்புகளை சரிபார்க்கவும்."
 
 msgid "cert_nc_purpose_email_smime"
-msgstr ""
+msgstr "மின்னஞ்சல்"
 
 msgid "cert_nc_purpose_ssl_tls"
-msgstr ""
+msgstr "சேவையகம்"
 
 msgid "cert_nc_purpose_wlan_eap"
-msgstr ""
+msgstr "Wlan "
 
 msgid "cert_ti_application_trust"
-msgstr ""
+msgstr "நோக்கத்தைத் தேர்ந்தெடுக்கவும்"
 
 msgid "cert_ti_enter_file_password"
-msgstr ""
+msgstr "கோப்பு கடவுச்சொல்லை உள்ளிடவும்"
 
 msgid "cert_ti_enter_password"
-msgstr ""
+msgstr "சான்றிதழ் கடவுச்சொல்லை உள்ளிடவும்"
 
 msgid "cert_ti_install_certificate"
-msgstr ""
+msgstr "சான்றிதழை நிறுவவும்"
 
 msgid "cert_ti_install_certificates"
-msgstr ""
+msgstr "சான்றிதழ்களை நிறுவவும்"
 
 msgid "cert_ti_key_password"
-msgstr ""
+msgstr "தனிப்பட்ட விசை கடவுச்சொல்லை உள்ளிடவும்"
 
 msgid "cert_ti_main_notebook_allusers"
-msgstr ""
+msgstr "அனைத்து பயனர்களும்"
 
 msgid "cert_ti_main_notebook_authorities"
-msgstr ""
+msgstr "அதிகாரிகள்"
 
 msgid "cert_ti_main_notebook_import"
-msgstr ""
+msgstr "இறக்குமதி சான்றிதழ்"
 
 msgid "cert_ti_main_notebook_user"
-msgstr ""
+msgstr "பயனர்"
 
 msgid "cert_ti_main_notebook_validfor"
-msgstr ""
+msgstr "செல்லுபடியாகும்"
 
 msgid "cert_ti_viewing_dialog"
-msgstr ""
+msgstr "சான்றிதழ் விவரங்கள்"
